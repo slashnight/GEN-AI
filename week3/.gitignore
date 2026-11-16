@@ -2,4 +2,4 @@
 .venv/
 __pycache__/
 .pytest_cache/
-/Week 3.docx
+*.docx
